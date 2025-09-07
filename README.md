@@ -1,6 +1,6 @@
 #                                                                                                                   Proyecto-Tecnologia
 # Proyecto-de-Analisis-SkyLine-Corp.
-# Integrantes: Benjamin Ibañez (Owner) Nacho Alvarez (Team) Ramiro Averbuj (Team) Benjamin Korstanje (Scrum Master) 
+# Integrantes: Benjamin Ibañez (Owner) Ignacio Alvarez (Team) Ramiro Averbuj (Team) Benjamin Korstanje (Scrum Master) 
 # Curso: 5to 2da 
 
 Somos una empresa muy versatil a la hora de actuar 
